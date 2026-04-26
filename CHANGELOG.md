@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/rhysmcneill/ssmctl/compare/v1.0.1...v1.0.2) (2026-04-26)
+
+
+### Bug Fixes
+
+* **docs:** update docs, code hygiene and formatting code. ([#26](https://github.com/rhysmcneill/ssmctl/issues/26)) ([e21949d](https://github.com/rhysmcneill/ssmctl/commit/e21949db836b192a76c867d5804ce59c79f2d53c))
+
 ## [1.0.1](https://github.com/rhysmcneill/ssmctl/compare/v1.0.0...v1.0.1) (2026-04-22)
 
 
